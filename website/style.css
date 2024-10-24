@@ -1,0 +1,21 @@
+.form-group {
+  width: 50%;
+}
+
+#message  {
+  width: 100%;
+}
+
+.center-main  {
+  margin:auto;
+  width: 50%;
+  height: 100%;
+  background-color: #4f4f4f;
+  padding: 2%;
+}
+
+.navbar-nav {
+  margin:auto;
+  width: 50%;
+}
+
